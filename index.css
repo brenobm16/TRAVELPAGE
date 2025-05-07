@@ -1,0 +1,11 @@
+@import url(global.css);
+@import url(nav.css);
+@import url(header.css);
+@import url(main.css);
+@import url(footer.css);
+/* #fotonossa{
+  width: 176px;
+  height: 176px;
+  border-radius: 50%;
+  object-fit: cover;
+ }
